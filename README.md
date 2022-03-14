@@ -1,1 +1,1 @@
-# Handysense_Firmware_tr_set
+# Handysense Firmware สำหรับ Training Set โดย อ้างอิงจากของทาง NECTEC ในการใช้งานเป็นหลักหากต้องการดาวน์โหลดเฟิร์มแวร์ดั้งเดิมของทาง NECTEC สามารถโหลดได้ที่ https://github.com/HandySense/HandySense-Firmware.git
