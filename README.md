@@ -12,5 +12,9 @@ Firmware นี้ถูกแก้ไขจาก Firmwareของทาง N
 1. HandySense-Firmware-main_For_Kid.rar จะเป็น Firmware ของ บอร์ด Handysense
 2. libraries.zip เป็น libraries ที่ใช้ร่วมกับFirmware ให้นำไฟล์ใน libraries.zip copyไปใส่ใน folder  Documents\Arduino\libraries
 
+Remark
+หากต้องการศึกษาเพิ่มเติมสามารถเข้าตามลิ้งนี้ได้เลย
+- https://github.com/HandySense
+
 
 
