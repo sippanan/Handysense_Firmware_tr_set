@@ -1,5 +1,5 @@
 # Handysense Firmware สำหรับ Training Set  
-Firmware นี้ถูกแก้ไขจาก Firmwareของทาง NECTEC เพื่อให้สามารถใช้งาน Sensor ที่แตกต่างไปจากดั้งเดิมได้ 
+Firmware นี้ถูกแก้ไขจาก Firmwareของทาง NECTEC เพื่อให้เข้ากับ Sensor ของชุด Training Set 
 
 เอกสารจะแบ่งเป็น3ส่วน
 
