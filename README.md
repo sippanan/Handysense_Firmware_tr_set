@@ -8,7 +8,10 @@
 3. HandySense-Web-Application-Manual-PBRS  เป็นเอกสารที่ใช้สำหรับการเชื่อมต่ออุปกรณ์กับหน้า Dashboard Handysense
 
 เฟิร์มแวร์ และ ไลบรารี่ ที่ใช้สำหรับ Training Set สามารถ download ได้จาก Handysense.zip
-หลังจากแตกไฟล์เรียบร้อยแล้ว ให้นำ libraries ไปใส่ใน Documents\Arduino\libraries
+หลังจากแตกไฟล์เรียบร้อยแล้ว จะได้ไฟล์Zip มา2ไฟล์   ให้นำ ไฟล์libraries ไปใส่ใน Documents\Arduino\libraries
+
+1. HandySense-Firmware-main_For_Kid.zip จะเป็น Firmware ของ บอร์ด Handysense
+2. libraries.zip เป็น libraries ที่ใช้ตัวโค้ดของเรา ใฟ้เรานำไฟล์ใน libraries.zip copyไปใส่ใน folder  Documents\Arduino\libraries
 
 
 
